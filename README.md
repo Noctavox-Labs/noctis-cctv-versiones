@@ -11,10 +11,8 @@ Programa de **Noctavox Films** para revisar las horas de grabación de las cáma
 
 ## La primera vez que se abre
 
-El programa todavía no lleva firma de Microsoft ni de Apple, así que el sistema pregunta una vez:
-
-- **Windows** muestra «Windows protegió su PC»: toque **Más información** y después **Ejecutar de todas formas**.
-- **Mac** dice que no puede comprobar la app: vaya a **Ajustes del Sistema → Privacidad y seguridad** y toque **Abrir igualmente**.
+- **Mac**: abre directo. La app está firmada por Noctavox y revisada por Apple.
+- **Windows**: el programa todavía no lleva firma de Microsoft, así que Windows pregunta una vez. Si muestra «Windows protegió su PC», toque **Más información** y después **Ejecutar de todas formas**.
 
 ## Actualizaciones
 
